@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Ecom-Clothing-App/static/css/main.50f8c272.chunk.css",
-    "main.js": "/Ecom-Clothing-App/static/js/main.7c8dda77.chunk.js",
-    "main.js.map": "/Ecom-Clothing-App/static/js/main.7c8dda77.chunk.js.map",
+    "main.js": "/Ecom-Clothing-App/static/js/main.b76e7251.chunk.js",
+    "main.js.map": "/Ecom-Clothing-App/static/js/main.b76e7251.chunk.js.map",
     "runtime-main.js": "/Ecom-Clothing-App/static/js/runtime-main.7375bcda.js",
     "runtime-main.js.map": "/Ecom-Clothing-App/static/js/runtime-main.7375bcda.js.map",
-    "static/js/2.f11009cc.chunk.js": "/Ecom-Clothing-App/static/js/2.f11009cc.chunk.js",
-    "static/js/2.f11009cc.chunk.js.map": "/Ecom-Clothing-App/static/js/2.f11009cc.chunk.js.map",
+    "static/js/2.7a5a1155.chunk.js": "/Ecom-Clothing-App/static/js/2.7a5a1155.chunk.js",
+    "static/js/2.7a5a1155.chunk.js.map": "/Ecom-Clothing-App/static/js/2.7a5a1155.chunk.js.map",
     "index.html": "/Ecom-Clothing-App/index.html",
     "static/css/main.50f8c272.chunk.css.map": "/Ecom-Clothing-App/static/css/main.50f8c272.chunk.css.map",
-    "static/js/2.f11009cc.chunk.js.LICENSE.txt": "/Ecom-Clothing-App/static/js/2.f11009cc.chunk.js.LICENSE.txt",
+    "static/js/2.7a5a1155.chunk.js.LICENSE.txt": "/Ecom-Clothing-App/static/js/2.7a5a1155.chunk.js.LICENSE.txt",
     "static/media/crown.3a4e2b15.svg": "/Ecom-Clothing-App/static/media/crown.3a4e2b15.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7375bcda.js",
-    "static/js/2.f11009cc.chunk.js",
+    "static/js/2.7a5a1155.chunk.js",
     "static/css/main.50f8c272.chunk.css",
-    "static/js/main.7c8dda77.chunk.js"
+    "static/js/main.b76e7251.chunk.js"
   ]
 }
