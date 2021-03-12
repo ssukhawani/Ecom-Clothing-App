@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css';
 import HomePage from './pages/homepage/Homepage'
-import {Route,Switch} from 'react-router-dom'
+import {BrowserRouter,Route,Switch} from 'react-router-dom'
 import ShopPage from './pages/shoppage/ShopPage';
 import {Header} from './components/header/Header';
 import {SignInSignUp} from './pages/signin-signup-page/SignIn-SignUp';
@@ -58,11 +58,13 @@ componentWillUnmount(){
     return (
       <div className="App">
         <Header currentuser={this.state.currentuser}/>
+        <BrowserRouter>
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route path="/shop" component={ShopPage} />
           <Route path="/signin" component={SignInSignUp} />
         </Switch>
+        </BrowserRouter>
       </div>
     );
 
