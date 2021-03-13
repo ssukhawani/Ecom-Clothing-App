@@ -6,6 +6,7 @@
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    // background-color: blue
 
     .shopping-icon {
         width: 24px;
@@ -14,8 +15,9 @@
 
     .item-count {
         position: absolute;
-        font-size: 15px;
+        font-size: 12px;
         font-weight: bold;
         bottom: 12px;
+        font-family: 'Courier New', Courier, monospace;
     }
 }
