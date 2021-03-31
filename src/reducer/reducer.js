@@ -1,4 +1,4 @@
-
+import {addToCart} from "./Utils/cart.utils"
 
 const reducer=(state={},action)=>{
 
@@ -13,7 +13,7 @@ const reducer=(state={},action)=>{
       case "ADD_CARTITEM":{
         return {
           ...state,
-          cartItems:[...state.cartItems,action.payload]
+          cartItems: addToCart(state.cartItems,action.payload)
         };
       }
       default: {
